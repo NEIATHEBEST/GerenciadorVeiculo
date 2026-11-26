@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pedro.silva\\Desktop\\SistemaEscolar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13F1CED4-26CE-4D3D-A320-BD03DC691495}|SistemaEscolar\\SistemaEscolar.csproj|C:\\Users\\pedro.silva\\Desktop\\SistemaEscolar\\sistemaescolar\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{13F1CED4-26CE-4D3D-A320-BD03DC691495}|SistemaEscolar\\SistemaEscolar.csproj|solutionrelative:sistemaescolar\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13F1CED4-26CE-4D3D-A320-BD03DC691495}|SistemaEscolar\\SistemaEscolar.csproj|c:\\users\\pedro.silva\\desktop\\sistemaescolar\\sistemaescolar\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13F1CED4-26CE-4D3D-A320-BD03DC691495}|SistemaEscolar\\SistemaEscolar.csproj|solutionrelative:sistemaescolar\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13F1CED4-26CE-4D3D-A320-BD03DC691495}|SistemaEscolar\\SistemaEscolar.csproj|C:\\Users\\pedro.silva\\Desktop\\SistemaEscolar\\sistemaescolar\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13F1CED4-26CE-4D3D-A320-BD03DC691495}|SistemaEscolar\\SistemaEscolar.csproj|solutionrelative:sistemaescolar\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13F1CED4-26CE-4D3D-A320-BD03DC691495}|SistemaEscolar\\SistemaEscolar.csproj|C:\\Users\\pedro.silva\\Desktop\\SistemaEscolar\\sistemaescolar\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{13F1CED4-26CE-4D3D-A320-BD03DC691495}|SistemaEscolar\\SistemaEscolar.csproj|solutionrelative:sistemaescolar\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13F1CED4-26CE-4D3D-A320-BD03DC691495}|SistemaEscolar\\SistemaEscolar.csproj|C:\\Users\\pedro.silva\\Desktop\\SistemaEscolar\\sistemaescolar\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13F1CED4-26CE-4D3D-A320-BD03DC691495}|SistemaEscolar\\SistemaEscolar.csproj|solutionrelative:sistemaescolar\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13F1CED4-26CE-4D3D-A320-BD03DC691495}|SistemaEscolar\\SistemaEscolar.csproj|C:\\Users\\pedro.silva\\Desktop\\SistemaEscolar\\sistemaescolar\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13F1CED4-26CE-4D3D-A320-BD03DC691495}|SistemaEscolar\\SistemaEscolar.csproj|solutionrelative:sistemaescolar\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13F1CED4-26CE-4D3D-A320-BD03DC691495}|SistemaEscolar\\SistemaEscolar.csproj|C:\\Users\\pedro.silva\\Desktop\\SistemaEscolar\\sistemaescolar\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13F1CED4-26CE-4D3D-A320-BD03DC691495}|SistemaEscolar\\SistemaEscolar.csproj|solutionrelative:sistemaescolar\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pedro.silva\\Desktop\\SistemaEscolar\\SistemaEscolar\\Form1.cs",
+              "RelativeDocumentMoniker": "SistemaEscolar\\Form1.cs",
+              "ToolTip": "C:\\Users\\pedro.silva\\Desktop\\SistemaEscolar\\SistemaEscolar\\Form1.cs [Design]",
+              "RelativeToolTip": "SistemaEscolar\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T16:36:50.24Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\pedro.silva\\Desktop\\SistemaEscolar\\SistemaEscolar\\Aluno.cs",
+              "RelativeDocumentMoniker": "SistemaEscolar\\Aluno.cs",
+              "ToolTip": "C:\\Users\\pedro.silva\\Desktop\\SistemaEscolar\\SistemaEscolar\\Aluno.cs",
+              "RelativeToolTip": "SistemaEscolar\\Aluno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T16:49:51.365Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\pedro.silva\\Desktop\\SistemaEscolar\\SistemaEscolar\\Form1.cs",
+              "RelativeDocumentMoniker": "SistemaEscolar\\Form1.cs",
+              "ToolTip": "C:\\Users\\pedro.silva\\Desktop\\SistemaEscolar\\SistemaEscolar\\Form1.cs",
+              "RelativeToolTip": "SistemaEscolar\\Form1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T17:08:35.563Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pedro.silva\\Desktop\\SistemaEscolar\\SistemaEscolar\\Form2.cs",
+              "RelativeDocumentMoniker": "SistemaEscolar\\Form2.cs",
+              "ToolTip": "C:\\Users\\pedro.silva\\Desktop\\SistemaEscolar\\SistemaEscolar\\Form2.cs [Design]",
+              "RelativeToolTip": "SistemaEscolar\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T16:46:53.009Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Professor.cs",
+              "DocumentMoniker": "C:\\Users\\pedro.silva\\Desktop\\SistemaEscolar\\SistemaEscolar\\Professor.cs",
+              "RelativeDocumentMoniker": "SistemaEscolar\\Professor.cs",
+              "ToolTip": "C:\\Users\\pedro.silva\\Desktop\\SistemaEscolar\\SistemaEscolar\\Professor.cs",
+              "RelativeToolTip": "SistemaEscolar\\Professor.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T17:33:09.74Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\pedro.silva\\Desktop\\SistemaEscolar\\SistemaEscolar\\Form2.cs",
+              "RelativeDocumentMoniker": "SistemaEscolar\\Form2.cs",
+              "ToolTip": "C:\\Users\\pedro.silva\\Desktop\\SistemaEscolar\\SistemaEscolar\\Form2.cs",
+              "RelativeToolTip": "SistemaEscolar\\Form2.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T16:50:38.258Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Conexao.cs",
+              "DocumentMoniker": "C:\\Users\\pedro.silva\\Desktop\\SistemaEscolar\\SistemaEscolar\\Conexao.cs",
+              "RelativeDocumentMoniker": "SistemaEscolar\\Conexao.cs",
+              "ToolTip": "C:\\Users\\pedro.silva\\Desktop\\SistemaEscolar\\SistemaEscolar\\Conexao.cs",
+              "RelativeToolTip": "SistemaEscolar\\Conexao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T17:16:58.377Z",
+              "IsPinned": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

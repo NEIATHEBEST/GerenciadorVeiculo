@@ -1,0 +1,17 @@
+CREATE DATABASE DB_PedroMendes;
+USE DB_PedroMendes;
+DROP TABLE IF EXISTS instrumentos;
+
+CREATE TABLE instrumentos (
+  id INT AUTO_INCREMENT PRIMARY KEY,
+  nome VARCHAR(100) NOT NULL,
+  tipo VARCHAR(100) NOT NULL,
+  marca VARCHAR(100) NOT NULL
+);
+
+INSERT INTO instrumentos (nome, tipo, marca) VALUES
+('Violão', 'Corda', 'Giannini'),
+('Bateria', 'Percussão', 'Pearl'),
+('Flauta', 'Sopro', 'Yamaha');
+
+SELECT * FROM instrumentos;
